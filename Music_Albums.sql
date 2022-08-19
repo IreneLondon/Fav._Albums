@@ -1,9 +1,9 @@
--- Here is a database I curated called Famous_people of the latest albums from my top 20 favourite musicians. 
--- Included are three tables; Singer,Info and Album. 
--- THE singer table contains the name of artist,Title of latest album and one Genre from the album.
+-- Here is a database I curated called Famous_people of the latest albums from my top 20 favorite musicians. 
+-- Included are three tables; Singer, Info, and Album. 
+-- THE singer table contains the name of the artist, the Title of their latest album, and one Genre from the album.
 -- The album table contained the album Id.
--- The Info table als contained the album Id, and release year of the album.
--- The main purpose was to query these tables using the JOIN,Subqueries, REGEXP as well as perform some aggregations on the data
+-- The Info table also contained the album Id, and release year of the album.
+-- The main purpose was to query these tables using the JOIN, Subqueries, and REGEXP as well as perform some aggregations on the data.
 
 
 -- CREATING DATABASE Famous_people
